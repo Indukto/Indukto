@@ -1,6 +1,6 @@
 # Indukto's GitHub Profile
 
-Hey there! Welcome to my GitHub profile. I'm Indukto, a dedicated developer based in Tel Aviv, Israel. By day, I work as a full-time employee of the state of Israel, and by night, I tinker away on various coding projects. Let's dive into my GitHub journey and explore the world of code together.
+
 
 ## Overview
 I joined GitHub in April 2021 and have been actively contributing to the community ever since. With a total of 119 commits and 27 PRs, I strive to bring my skills and expertise to the forefront. I specialize in languages like Kotlin, TypeScript, Python, HTML, and CSS, showcasing my versatility and dedication to mastering diverse programming languages.
