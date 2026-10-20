@@ -17,5 +17,5 @@ With 2 followers and a growing community presence, I am always eager to collabor
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Indukto)](https://git.io/streak-stats)
+[![Tokscale Stats](https://tokscale.ai/api/embed/Indukto/svg?graph=1&tokens=compact&cost=compact)](https://tokscale.ai/u/Indukto)
 
